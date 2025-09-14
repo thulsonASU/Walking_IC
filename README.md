@@ -24,3 +24,6 @@ I will be making VLOGS and ranting in this README.md for the duration of this pr
 <p align="center">
   <img src="imgs/tension.png"/>
 </p>
+
+# I regret to inform you I have ADHD
+I have not made progress on this project since inception and got side tracked with fpv drones, autonomous drones, and meshtastic. I may pivot towards that and come back to this later :)
